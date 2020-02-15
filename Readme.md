@@ -10,7 +10,7 @@
 - buat folder di `httdocs` dengan nama contoh `graphql-example` 
 - buka terminal ketikan ini `composer init`
 - install module `Siler GraphQL` silahkan cek disini [link](https://packagist.org/packages/leocavalcante/siler)
-- tambahkan `scripts: { "dev": php -S localhost:3000/graphql index.php }`, pada `composer.json` atau bisa mengunkan web server seperti `Nginx`
+- tambahkan `scripts: { "dev": php -S localhost:3000/graphql index.php }`, pada `composer.json` atau bisa mengunakan web server seperti `Nginx`
 - jalankan perintah `composer run dev` melalui terminal
 
 #### Step Two
