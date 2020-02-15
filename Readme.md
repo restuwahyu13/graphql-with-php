@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/lNZUTQS.png)
 
-**Tutorial** sebelumnya saya sudah pernah membahas `GraphQL` mengunakan `Express` dan `Apollo Server`, tapi kali ini saya akan mengunakan `GraphQL` dan `PHP` mengunakan library `Siler GraphQL`, kenapa saya mengunakan `Siler GraphQL ?` karena `Siler GraphQL` konsepya mirip dengan `Apollo Server`, `Graphiql` dan `GraphQL Yoga` pada `NodeJS`, pada umumnya `GraphQL` digunakan untuk melakukan komunikasi pertukaran data antara client dan server seperti `REST API` dan `GraphQL` juga bisa dibilang cara paling modern untuk melakukan komunikasi pertukaran  data sebagai alternative jika anda tidak mau mengunakan `REST API`, untuk info lebih lanjut mengenai `GraphQL` bisa cek kesini [graphql.org](https://graphql.org/)
+**Tutorial** sebelumnya saya sudah pernah membahas `GraphQL` mengunakan `Express` dan `Apollo Server`, tapi kali ini saya akan membahas `GraphQL` mengunakan `PHP` dan mengunakan library `Siler GraphQL`, kenapa saya mengunakan `Siler GraphQL ?` karena `Siler GraphQL` konsepya mirip dengan `Apollo Server`, `Graphiql` dan `GraphQL Yoga` pada `NodeJS`, pada umumnya `GraphQL` digunakan untuk melakukan komunikasi pertukaran data antara client dan server seperti `REST API` dan `GraphQL` juga bisa dibilang cara paling modern untuk melakukan komunikasi pertukaran  data sebagai alternative jika anda tidak mau mengunakan `REST API`, untuk info lebih lanjut mengenai `GraphQL` silahkan anda bisa kunjungi situs berikut [graphql.org](https://graphql.org/)
 
 #### Step One
 
