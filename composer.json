@@ -1,0 +1,23 @@
+{
+    "name": "anti-malware/graphqlapp",
+    "authors": [
+        {
+            "name": "restuwahyu13",
+            "email": "restuwahyu13@gmail.com"
+        }
+    ],
+    "scripts": {
+        "dev": "php -S localhost:3000/graphql index.php"
+    },
+    "authors": [
+        {
+            "name": "restuwahyu13",
+            "email": "restuwahyu13@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "leocavalcante/siler": "^1.7",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
