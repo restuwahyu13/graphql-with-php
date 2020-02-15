@@ -87,10 +87,9 @@
    
    ### StepThree
    
-   - buka `GraphQL Playground ` atau `Altal GraphQL`
-   - copy URL yang sudah dibuat tadi melalu `composer run dev` di playground
-   - tuliskan `Query` untuk menampilkan sebuah nilai pada `GraphQL` seperti ini
-   
+   - buka `GraphQL Playground ` atau `Altar GraphQL`
+   - copy URL yang sudah dibuat tadi melalu `composer run dev` ke playground `GraphQL`
+   - tuliskan `Query` untuk menampilkan sebuah nilai pada `GraphQL` seperti dibawah ini
    
    <pre><code> query tampilkanData {
 		 resultPerson {
